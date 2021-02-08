@@ -1,3 +1,4 @@
 platform CoreysPlatform 
 side red 
+icon ship
 end_platform
